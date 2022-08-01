@@ -19,7 +19,7 @@ variable "shape" {
 
 variable "how_many_nodes" {
   type    = number
-  default = 4
+  default = 3
 }
 
 variable "availability_domain" {
